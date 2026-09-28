@@ -52,6 +52,6 @@ Any browser with the Web Crypto API — all current versions of Chrome, Edge, Fi
 ## Project structure
 
 ```
-PasswordGenerator.html   # the whole app: HTML, CSS and JS
+index.html   # the whole app: HTML, CSS and JS
 README.md
 ```
